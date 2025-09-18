@@ -15,7 +15,7 @@ public class ejercicio1 {
 
         double media = (nota1 + nota2) / 2;
 
-        if(media <=5){
+        if(media <5){
             
             System.out.println("¿Cuál ha sido el resultado de la recuperación? (apto/no apto)");
             sc.nextLine(); 
